@@ -1,0 +1,26 @@
+{
+  "name": "photon",
+  "version": "0.1.0",
+  "description": "Build web apps at the speed of light",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parmeniong/photon.git"
+  },
+  "keywords": [
+    "photon",
+    "web",
+    "framework",
+    "js"
+  ],
+  "author": "Graikos Parmenion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parmeniong/photon/issues"
+  },
+  "homepage": "https://github.com/parmeniong/photon#readme"
+}
