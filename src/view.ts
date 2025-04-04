@@ -1,6 +1,6 @@
 import Element from "./element";
 
-class View {
+export default class View {
     elements: Array<Element>;
 
     constructor(...elements: Array<Element>) {

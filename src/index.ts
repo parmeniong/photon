@@ -1,3 +1,4 @@
+import View from "./view";
 import text from "./elements/text";
 
-export { text };
+export { View, text };
